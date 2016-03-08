@@ -1,0 +1,11 @@
+{
+  "name": "matalk.github.io",
+  "version": "0.0.1",
+  "description": "GitHub page",
+  "repository": "matalk/matalk.github.io",
+  "author": {
+      "name": "Mattias",
+      "email": "",
+      "url": "http://matalk.github.io/"
+  }
+}
